@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forteblunt
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to do data science.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning how to do Data Analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
